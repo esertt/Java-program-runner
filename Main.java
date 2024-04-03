@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 class Main{
     public static void main(String[] args) throws InterruptedException, URISyntaxException, IOException {
-        String ApiKey = "4f8d47ee48mshab7519ff03151cfp1e0088jsn65e7c24705a0";
-        String ApiHost = "online-code-compiler.p.rapidapi.com";
+        String ApiKey = "apikey";
+        String ApiHost = "apihost";
         String ContentType = "application/json";
 
         Scanner in = new Scanner(System.in);
